@@ -9,7 +9,7 @@ title: proLingo+ Support
 
 If you have questions, feedback, or need help with proLingo+, please reach out:
 
-- **Email**: [wysuperfly@gmail.com](mailto:wysuperfly@gmail.com)
+- **Email**: Use GitHub Issues below
 - **GitHub Issues**: [Report a bug or request a feature](https://github.com/wysuperfly/prolingo-support/issues)
 
 ## Frequently Asked Questions

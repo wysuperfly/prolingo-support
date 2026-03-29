@@ -54,4 +54,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 ## Contact
 
-If you have questions about this Privacy Policy, contact us at [wysuperfly@gmail.com](mailto:wysuperfly@gmail.com).
+If you have questions about this Privacy Policy, please open a [GitHub Issue](https://github.com/wysuperfly/prolingo-support/issues).
